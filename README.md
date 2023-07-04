@@ -1,2 +1,2 @@
 # lenayagaf.github.io
-Collection of personal projects 
+Collection of personal and academic projects 
